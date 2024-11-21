@@ -3,7 +3,7 @@ package filter_test
 import (
 	"fmt"
 
-	"github.com/ekristen/libnuke/pkg/types"
+	"github.com/colliecollie/libnuke/pkg/types"
 )
 
 type TestResource struct {

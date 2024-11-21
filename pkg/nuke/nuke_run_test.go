@@ -10,12 +10,12 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ekristen/libnuke/pkg/errors"
-	"github.com/ekristen/libnuke/pkg/queue"
-	"github.com/ekristen/libnuke/pkg/registry"
-	"github.com/ekristen/libnuke/pkg/resource"
-	"github.com/ekristen/libnuke/pkg/scanner"
-	"github.com/ekristen/libnuke/pkg/settings"
+	"github.com/colliecollie/libnuke/pkg/errors"
+	"github.com/colliecollie/libnuke/pkg/queue"
+	"github.com/colliecollie/libnuke/pkg/registry"
+	"github.com/colliecollie/libnuke/pkg/resource"
+	"github.com/colliecollie/libnuke/pkg/scanner"
+	"github.com/colliecollie/libnuke/pkg/settings"
 )
 
 type TestResourceSuccess struct {

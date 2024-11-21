@@ -10,7 +10,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ekristen/libnuke/pkg/registry"
+	"github.com/colliecollie/libnuke/pkg/registry"
 )
 
 func Test_NewScannerWithMorphOpts(t *testing.T) {

@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	liberrors "github.com/ekristen/libnuke/pkg/errors"
+	liberrors "github.com/colliecollie/libnuke/pkg/errors"
 )
 
 func TestErrorIs(t *testing.T) {

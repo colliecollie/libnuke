@@ -14,9 +14,9 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/ekristen/libnuke/pkg/errors"
-	"github.com/ekristen/libnuke/pkg/filter"
-	"github.com/ekristen/libnuke/pkg/settings"
+	"github.com/colliecollie/libnuke/pkg/errors"
+	"github.com/colliecollie/libnuke/pkg/filter"
+	"github.com/colliecollie/libnuke/pkg/settings"
 )
 
 // Config is the configuration for libnuke. It contains the configuration for all the accounts, regions, and resource

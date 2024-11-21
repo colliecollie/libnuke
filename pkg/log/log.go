@@ -8,7 +8,7 @@ import (
 
 	"github.com/fatih/color"
 
-	"github.com/ekristen/libnuke/pkg/resource"
+	"github.com/colliecollie/libnuke/pkg/resource"
 )
 
 var (

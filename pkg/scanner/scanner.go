@@ -13,12 +13,12 @@ import (
 	"github.com/sirupsen/logrus"
 	"golang.org/x/sync/semaphore"
 
-	liberrors "github.com/ekristen/libnuke/pkg/errors"
+	liberrors "github.com/colliecollie/libnuke/pkg/errors"
 
-	"github.com/ekristen/libnuke/pkg/queue"
-	"github.com/ekristen/libnuke/pkg/registry"
-	"github.com/ekristen/libnuke/pkg/resource"
-	"github.com/ekristen/libnuke/pkg/utils"
+	"github.com/colliecollie/libnuke/pkg/queue"
+	"github.com/colliecollie/libnuke/pkg/registry"
+	"github.com/colliecollie/libnuke/pkg/resource"
+	"github.com/colliecollie/libnuke/pkg/utils"
 )
 
 // DefaultParallelQueries is the number of parallel queries to run at any given time for a scanner.

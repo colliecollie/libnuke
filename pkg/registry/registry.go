@@ -9,7 +9,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/stevenle/topsort"
 
-	"github.com/ekristen/libnuke/pkg/resource"
+	"github.com/colliecollie/libnuke/pkg/resource"
 )
 
 // Scope is a string in which resources are grouped against, this is meant for upstream tools to define their
