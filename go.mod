@@ -1,4 +1,4 @@
-module github.com/ekristen/libnuke
+module github.com/colliecollie/libnuke
 
 go 1.21.6
 
