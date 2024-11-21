@@ -1,8 +1,8 @@
 package config
 
 import (
-	"github.com/ekristen/libnuke/pkg/filter"
-	"github.com/ekristen/libnuke/pkg/types"
+	"github.com/colliecollie/libnuke/pkg/filter"
+	"github.com/colliecollie/libnuke/pkg/types"
 	"github.com/sirupsen/logrus"
 )
 

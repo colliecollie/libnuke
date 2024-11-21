@@ -7,8 +7,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ekristen/libnuke/pkg/settings"
-	"github.com/ekristen/libnuke/pkg/types"
+	"github.com/colliecollie/libnuke/pkg/settings"
+	"github.com/colliecollie/libnuke/pkg/types"
 )
 
 type TestResource struct {

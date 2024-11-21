@@ -10,7 +10,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ekristen/libnuke/pkg/errors"
+	"github.com/colliecollie/libnuke/pkg/errors"
 )
 
 func init() {

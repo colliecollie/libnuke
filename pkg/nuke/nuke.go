@@ -12,15 +12,15 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	liberrors "github.com/ekristen/libnuke/pkg/errors"
-	"github.com/ekristen/libnuke/pkg/scanner"
-	libsettings "github.com/ekristen/libnuke/pkg/settings"
+	liberrors "github.com/colliecollie/libnuke/pkg/errors"
+	"github.com/colliecollie/libnuke/pkg/scanner"
+	libsettings "github.com/colliecollie/libnuke/pkg/settings"
 
-	"github.com/ekristen/libnuke/pkg/filter"
-	"github.com/ekristen/libnuke/pkg/queue"
-	"github.com/ekristen/libnuke/pkg/registry"
-	"github.com/ekristen/libnuke/pkg/resource"
-	"github.com/ekristen/libnuke/pkg/types"
+	"github.com/colliecollie/libnuke/pkg/filter"
+	"github.com/colliecollie/libnuke/pkg/queue"
+	"github.com/colliecollie/libnuke/pkg/registry"
+	"github.com/colliecollie/libnuke/pkg/resource"
+	"github.com/colliecollie/libnuke/pkg/types"
 )
 
 // ListCache is used to cache the list of resources that are returned from the API.

@@ -6,9 +6,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ekristen/libnuke/pkg/registry"
-	"github.com/ekristen/libnuke/pkg/resource"
-	"github.com/ekristen/libnuke/pkg/types"
+	"github.com/colliecollie/libnuke/pkg/registry"
+	"github.com/colliecollie/libnuke/pkg/resource"
+	"github.com/colliecollie/libnuke/pkg/types"
 )
 
 type TestItemResource struct {

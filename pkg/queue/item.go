@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/ekristen/libnuke/pkg/log"
-	"github.com/ekristen/libnuke/pkg/registry"
-	"github.com/ekristen/libnuke/pkg/resource"
+	"github.com/colliecollie/libnuke/pkg/log"
+	"github.com/colliecollie/libnuke/pkg/registry"
+	"github.com/colliecollie/libnuke/pkg/resource"
 )
 
 type ItemState int

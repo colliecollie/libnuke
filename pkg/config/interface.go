@@ -3,7 +3,7 @@ package config
 import (
 	"github.com/sirupsen/logrus"
 
-	"github.com/ekristen/libnuke/pkg/filter"
+	"github.com/colliecollie/libnuke/pkg/filter"
 )
 
 // IConfig is the interface for the config package. It is used to define the methods that are required for the

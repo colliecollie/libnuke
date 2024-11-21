@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ekristen/libnuke/pkg/utils"
+	"github.com/colliecollie/libnuke/pkg/utils"
 )
 
 func TestUniqueID(t *testing.T) {
